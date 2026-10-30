@@ -46,6 +46,10 @@ pytest
 
 Next step: apply it to a public corpus (for example a Wikipedia sample, noting its licence) and port the MinHash step to PySpark for scale.
 
+## Walkthrough
+
+- [ ] 3-minute Loom walkthrough ([script ready](docs/walkthrough.md))
+
 ## Stack
 
 Python, NumPy (vectorised MinHash), pytest.

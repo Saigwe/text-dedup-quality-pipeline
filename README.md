@@ -29,7 +29,7 @@ Scoring treats each source document and its copies as one cluster where exactly 
 See [`output/audit.md`](output/audit.md) for removals by reason and one example of each.
 
 ## Charts
-Rendered from this repo's own results by `charts/make_charts.py` (`make charts`); CI re-renders them on every push.
+Rendered from this repo's own results by `python charts/make_charts.py`; CI re-renders them on every push.
 
 ![Documents kept and removed by reason, with precision and recall against labels](docs/charts/curation_funnel.png)
 
